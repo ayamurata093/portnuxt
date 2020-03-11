@@ -36,7 +36,7 @@ $ npm install --save-dev node-sass sass-loader
 ## pugとか全部まとめてインストールしたいという方はこちらを使ってください。
 
 ```
-npm install --save-dev pug@2.0.3 pug-plain-loader coffeescript coffee-loader node-sass sass-loader
+$ npm install --save-dev pug@2.0.3 pug-plain-loader coffeescript coffee-loader node-sass sass-loader
 ```
 
 
