@@ -29,7 +29,8 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 ## sassのインストール(vueやnuxtでsassを使う)
 
-```$ npm install --save-dev node-sass sass-loader
+```
+$ npm install --save-dev node-sass sass-loader
 ```
 
 ## pugとか全部まとめてインストールしたいという方はこちらを使ってください。
